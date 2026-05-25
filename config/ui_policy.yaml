@@ -1,0 +1,24 @@
+thresholds:
+  low: 0.30
+  medium: 0.36
+  high: 0.42
+
+actions:
+  low:
+    summary_level: short
+    tooltip: false
+    collapse: false
+  medium:
+    summary_level: short
+    tooltip: true
+    collapse: false
+  high:
+    summary_level: concise
+    tooltip: true
+    collapse: true
+
+weights:
+  readability: 0.15
+  term_density: 0.35
+  sentence_len: 0.25
+  info_density: 0.25

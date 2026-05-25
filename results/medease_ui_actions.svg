@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="420" viewBox="0 0 840 420">
+<rect width="100%" height="100%" fill="#F6F7F8"/>
+<text x="90" y="36" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#1D1D1F">MedEase UI Action Trigger Rates</text>
+<line x1="90" y1="330" x2="800" y2="330" stroke="#A1A1AA" stroke-width="1"/>
+<line x1="90" y1="70" x2="90" y2="330" stroke="#A1A1AA" stroke-width="1"/>
+<line x1="90" y1="330.0" x2="800" y2="330.0" stroke="#E4E4E7" stroke-width="1"/>
+<text x="78" y="335.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#52525B">0.00</text>
+<line x1="90" y1="265.0" x2="800" y2="265.0" stroke="#E4E4E7" stroke-width="1"/>
+<text x="78" y="270.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#52525B">0.25</text>
+<line x1="90" y1="200.0" x2="800" y2="200.0" stroke="#E4E4E7" stroke-width="1"/>
+<text x="78" y="205.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#52525B">0.50</text>
+<line x1="90" y1="135.0" x2="800" y2="135.0" stroke="#E4E4E7" stroke-width="1"/>
+<text x="78" y="140.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#52525B">0.75</text>
+<line x1="90" y1="70.0" x2="800" y2="70.0" stroke="#E4E4E7" stroke-width="1"/>
+<text x="78" y="75.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#52525B">1.00</text>
+<rect x="90.0" y="70.0" width="159.5" height="260.0" rx="6" fill="#2563EB"/>
+<text x="169.75" y="62.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1D1D1F">1.000</text>
+<text x="169.75" y="354" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3F3F46">show_summary</text>
+<rect x="273.5" y="70.0" width="159.5" height="260.0" rx="6" fill="#2563EB"/>
+<text x="353.25" y="62.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1D1D1F">1.000</text>
+<text x="353.25" y="354" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3F3F46">show_inline_terms</text>
+<rect x="457.0" y="70.0" width="159.5" height="260.0" rx="6" fill="#2563EB"/>
+<text x="536.75" y="62.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1D1D1F">1.000</text>
+<text x="536.75" y="354" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3F3F46">collapse_technical</text>
+<rect x="640.5" y="70.0" width="159.5" height="260.0" rx="6" fill="#2563EB"/>
+<text x="720.25" y="62.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1D1D1F">1.000</text>
+<text x="720.25" y="354" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3F3F46">highlight_risk</text>
+</svg>

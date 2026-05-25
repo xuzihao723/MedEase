@@ -1,0 +1,9 @@
+sample_id,text,label
+S001,"Your blood pressure readings are mildly elevated. Track readings at home for seven days and discuss the average with a clinician.",low
+S002,"The report mentions iron deficiency anemia. Low ferritin and low hemoglobin may explain fatigue, but results should be interpreted with symptoms.",medium
+S003,"The CT report shows a small pulmonary nodule and recommends follow-up imaging based on clinical risk factors such as smoking history and prior cancer.",high
+S004,"Take the medication with meals. If you develop rash, breathing difficulty, or severe diarrhea, seek medical advice promptly.",medium
+S005,"Sudden chest pain radiating to the left arm with sweating and shortness of breath can be an emergency and requires urgent medical assessment.",high
+S006,"The ultrasound suggests mild fatty liver changes. Lifestyle changes and follow-up blood tests may be recommended.",low
+S007,"An elevated NT-proBNP may indicate heart strain, especially with leg swelling, breathlessness, or reduced exercise tolerance.",high
+S008,"The ECG shows sinus tachycardia. This means the heart is beating faster than usual and should be interpreted with symptoms.",medium

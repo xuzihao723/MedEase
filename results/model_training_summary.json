@@ -1,0 +1,60 @@
+{
+  "generated_at": "2026-04-12T15:39:57",
+  "train_samples": 5482,
+  "val_samples": 320,
+  "accuracy": 0.828125,
+  "macro_f1": 0.800466,
+  "metric_scope": "manual_eval",
+  "model_type": "text",
+  "class_weight": "balanced",
+  "lr_c": 2.3,
+  "min_df": 1,
+  "max_features": 50000,
+  "train_label_source": "manual_only",
+  "eval_label_source": "manual",
+  "decision_high_threshold": 0.42,
+  "decision_low_threshold": 0.45,
+  "labels": [
+    "low",
+    "medium",
+    "high"
+  ],
+  "thresholds": {
+    "low": 0.38,
+    "medium": 0.62,
+    "high": 0.8
+  },
+  "train_score_mean": 0.390092,
+  "val_score_mean": 0.386003,
+  "manual_train_csvs": [
+    "data\\annotation\\manual_train_labels_combined_batch10_focus_lh.csv"
+  ],
+  "manual_eval_csv": "data\\annotation\\manual_eval_labels.csv",
+  "manual_train_labels_loaded_rows": 5482,
+  "manual_eval_labels_loaded_rows": 320,
+  "train_label_stats": {
+    "skipped_no_manual": 42801,
+    "manual_label_used": 5482
+  },
+  "eval_label_stats": {
+    "skipped_no_manual": 4538,
+    "manual_label_used": 320
+  },
+  "high_boost": 1,
+  "label_dist_train_before_boost": {
+    "medium": 3767,
+    "high": 967,
+    "low": 748
+  },
+  "label_dist_train_after_boost": {
+    "medium": 3767,
+    "high": 967,
+    "low": 748
+  },
+  "label_dist_val": {
+    "medium": 178,
+    "high": 104,
+    "low": 38
+  },
+  "model_path": "models\\cognitive_load_classifier.joblib"
+}

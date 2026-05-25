@@ -1,0 +1,22 @@
+{
+  "official_metric_scope": "manual_eval",
+  "official_classifier": {
+    "model": "TF-IDF + LogisticRegression",
+    "accuracy": 0.828125,
+    "macro_f1": 0.800466,
+    "eval_samples": 320
+  },
+  "ab_study": {
+    "participants": 30,
+    "condition_a": {
+      "accuracy": 0.7600,
+      "nasa_tlx": 70.306,
+      "time_sec": 293.967
+    },
+    "condition_b": {
+      "accuracy": 0.8845,
+      "nasa_tlx": 48.945,
+      "time_sec": 257.233
+    }
+  }
+}

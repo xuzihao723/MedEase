@@ -1,0 +1,27 @@
+{
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "labels": [
+    "low",
+    "medium",
+    "high"
+  ],
+  "confusion_matrix": [
+    [
+      2,
+      0,
+      0
+    ],
+    [
+      0,
+      3,
+      0
+    ],
+    [
+      0,
+      0,
+      3
+    ]
+  ],
+  "note": "Sample-data demo metrics only. Official paper metrics are in results/metrics.json."
+}

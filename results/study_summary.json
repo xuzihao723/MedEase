@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-04-14T18:42:13",
+  "study_csv": "data\\study_results.csv",
+  "n_participants": 30,
+  "data_quality": {
+    "rows_total": 60,
+    "rows_parsed": 60,
+    "rows_skipped_missing_pid": 0,
+    "rows_skipped_invalid_condition": 0,
+    "rows_skipped_incomplete_or_non_numeric": 0,
+    "duplicate_condition_rows_overwritten": 0,
+    "participants_with_any_valid_row": 30,
+    "participants_with_A_and_B": 30
+  },
+  "mean": {
+    "A_accuracy": 0.76,
+    "B_accuracy": 0.8845,
+    "A_time_sec": 293.967,
+    "B_time_sec": 257.233,
+    "A_nasa": 70.306,
+    "B_nasa": 48.945
+  },
+  "delta_pct": {
+    "nasa_reduction_pct": 30.383,
+    "accuracy_improve_pct": 16.376,
+    "time_increase_pct": -12.496
+  },
+  "paired_ttest": {
+    "nasa": {
+      "t": -52.5341,
+      "p_approx": 0.0
+    },
+    "accuracy": {
+      "t": 14.0023,
+      "p_approx": 0.0
+    },
+    "time": {
+      "t": -5.1034,
+      "p_approx": 0.0
+    }
+  },
+  "acceptance": {
+    "criterion_1_nasa_reduction": true,
+    "criterion_2_accuracy_gain": true,
+    "criterion_3_time_non_significant_increase": true,
+    "overall": true
+  }
+}

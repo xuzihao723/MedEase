@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-05-25T14:53:20",
+  "zip_path": "D:\\User\\HCI_project\\ai-medical-advice-comprehensibility_github_public_final.zip",
+  "excluded_patterns": [
+    ".git/*",
+    "__pycache__/*",
+    "**/__pycache__/*",
+    "*.pyc",
+    "**/*.pyc",
+    "*.pyo",
+    "**/*.pyo",
+    ".env",
+    "backend/.env",
+    "backend/logs/*",
+    "backend/tmp_pyc/*",
+    "*.zip",
+    "**/*.zip"
+  ]
+}

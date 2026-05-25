@@ -1,0 +1,23 @@
+.env
+.venv/
+.venv-baselines/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Runtime logs and local traces
+backend/logs/
+backend/tmp_pyc/
+*.log
+
+# Large or private data should not be committed
+data/external/
+data/raw/
+data/private/
+*.zip
+
+# Local paper/export artifacts
+*.docx
+*.pdf
+~$*
