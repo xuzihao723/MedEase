@@ -1,19 +1,10 @@
-# Screenshots
+# Interface Screenshots
 
-Add screenshots here before publishing the repository:
+These screenshots were captured from the checked-in MedEase frontend using the built-in **Blood test result** example. The displayed explanation is prepared demo content, not a live provider response or a participant record.
 
-- Main explanation workspace
-- Adaptive explanation result
-- Term explanation popover
-- History page
-- Session detail page
+| Screenshot | View |
+| --- | --- |
+| [adaptive_result.jpg](adaptive_result.jpg) | Summary, inline terminology, risk cues, next steps, and collapsed technical details |
+| [term_popover.jpg](term_popover.jpg) | Inline explanation of the term Hemoglobin |
 
-Recommended image names:
-
-```text
-workspace.png
-adaptive_result.png
-term_popover.png
-history.png
-session_detail.png
-```
+For local preview instructions, see the [main README](../../README.md#getting-started).
