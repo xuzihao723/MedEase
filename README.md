@@ -314,9 +314,7 @@ This citation identifies the repository; it does not imply a peer-reviewed publi
 
 Maintainer: [Zihao Xu (@xuzihao723)](https://github.com/xuzihao723). For project questions, use the [issue tracker](https://github.com/xuzihao723/ai-medical-advice-comprehensibility/issues).
 
-## Acknowledgments
 
-README organization and presentation were informed by [Awesome README](https://github.com/matiassingers/awesome-readme) and [Best-README-Template](https://github.com/othneildrew/Best-README-Template), adapted to this research prototype.
 
 The research methodology describes an OpenMed/MedDialog-based dialogue corpus; see the [methodology notes](docs/methodology.md) for the public data scope.
 
